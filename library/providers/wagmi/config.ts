@@ -16,7 +16,7 @@ export const config = createConfig(
       [anvil.id]: http(),
 
       [opBNBTestnet.id]: http(
-        "https://opbnb-testnet.g.alchemy.com/v2/wmmPIFmPi700hZkT_QuBCKRvsCpvJ-J9"
+        "https://opbnb-testnet.g.alchemy.com/v2/DAfFtjudU6WUxNJuJ5RnM3gdKcx5hEHY"
       ),
     },
   })
