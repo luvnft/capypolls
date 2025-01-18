@@ -206,12 +206,12 @@ const Home = () => {
 
       <div className=" flex items-center justify-center md:w-[calc(100%+12rem)] md:-ml-24 py-20 bg-slate-200 ">
         <Link
-          href="https://github.com/capypolls"
+          href="https://fun.luvnft.com"
           target="_blank"
           rel="noopener noreferrer"
           className=" border md:text-xl border-[#191A23] font-medium py-5 md:px-9 px-6 rounded-3xl"
         >
-          GitHub Repository
+          LUV NFT FUN
         </Link>
       </div>
     </div>
