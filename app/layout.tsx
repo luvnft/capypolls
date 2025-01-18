@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import CoreLayout from "@/components/template/layout-core";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://capypolls.vercel.app/"),
+  metadataBase: new URL("https://poll.luvnft.com"),
   title: "CapyPolls",
   icons: "/capypolls-logo.png",
   description: "No loss staking with memecoins",
