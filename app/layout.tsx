@@ -4,7 +4,7 @@ import CoreLayout from "@/components/template/layout-core";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://poll.luvnft.com"),
-  title: "CapyPolls",
+  title: "LUV NFT POLL",
   icons: "/capypolls-logo.png",
   description: "No loss staking with memecoins",
   openGraph: {

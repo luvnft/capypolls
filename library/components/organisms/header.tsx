@@ -11,7 +11,7 @@ const Header = ({ className }: { className?: string }) => {
         <div className="flex items-center">
           <Link href={"/"}>
             <Image
-              alt="capypolls logo"
+              alt="LUV NFT POLL logo"
               src="/capypolls-logo.png"
               width={70}
               height={70}
